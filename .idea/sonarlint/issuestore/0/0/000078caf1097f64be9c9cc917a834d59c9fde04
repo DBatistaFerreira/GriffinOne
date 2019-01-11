@@ -1,0 +1,25 @@
+
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(õĞµç
+O
+squid:S106;"9Replace this use of System.out or System.err by a logger.(æÑÚ–
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(±Äô
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(Ãü¾£ùÿÿÿÿ
+O
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(æÑÚ–
+T
+squid:S106]"9Replace this use of System.out or System.err by a logger.(æƒİËûÿÿÿÿ
+O
+squid:S106^"9Replace this use of System.out or System.err by a logger.(¯˜˜æ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+Nsquid:S1135O"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Osquid:S1481a"3Remove this unused "elapsedTimeMin" local variable.(È“¨Æûÿÿÿÿ
+Psquid:S1481c"4Remove this unused "elapsedTimeHour" local variable.(ÆüÇ³øÿÿÿÿ
+Jsquid:S1481e"3Remove this unused "elapsedTimeDay" local variable.(³Îñ
+]squid:S2142N"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Ysquid:S1854e"BRemove this useless assignment to local variable "elapsedTimeDay".(³Îñ
+_squid:S1854c"CRemove this useless assignment to local variable "elapsedTimeHour".(ÆüÇ³øÿÿÿÿ
+^squid:S1854a"BRemove this useless assignment to local variable "elapsedTimeMin".(È“¨Æûÿÿÿÿ
+?squid:S1148P"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
