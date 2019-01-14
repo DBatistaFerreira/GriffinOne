@@ -1,3 +1,5 @@
+package task3;
+
 /**
  * Class AccountManager
  * Implements account manager that twists depositor and withdrawal threads.
@@ -13,14 +15,14 @@ public class AccountManager {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Account [] account = new Account[10];
-		Depositor [] deposit = new Depositor[10];
-		Withdrawer [] withdraw = new Withdrawer[10];
+		Account[] account = new Account[10];
+		Depositor[] deposit = new Depositor[10];
+		Withdrawer[] withdraw = new Withdrawer[10];
 		
 		// The birth of  10 accounts
 		account[0] = new Account(1234,"Mike",1000);
 		account[1] = new Account(2345,"Adam",2000);
-		account[2] = new Account(3456,"Linda",3000);
+		account[2] = new Account(3456,"Lind",3000);
 		account[3] = new Account(4567,"John",4000);
 		account[4] = new Account(5678,"Rami",5000);
 		account[5] = new Account(6789,"Lee",6000);

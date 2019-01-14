@@ -1,3 +1,4 @@
+package task4;
 
 /**
  * Class Account
@@ -148,7 +149,9 @@ public class Account {
 		for(int i=0;i<100;i++)
 			k = k / 2;
 
-			balance = balance + amount;
+			synchronized (this) {
+				balance = balance + amount;
+			}
 
 		// Waste some time doing fake computations
 		// do not remove or modify any of the following 3 statements
@@ -170,7 +173,9 @@ public class Account {
 		for(int i=0;i<100;i++)
 			k = k / 2;
 
-			balance = balance - amount;
+			synchronized (this) {
+				balance = balance - amount;
+			}
 
 		// Waste some time doing fake computations
 		// do not remove or modify any of the following 3 statements
