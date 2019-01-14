@@ -20,6 +20,7 @@ public class AccountManager {
 		Withdrawer[] withdraw = new Withdrawer[10];
 
 		// The birth of  10 accounts
+		account[0] = new Account(1234,"Mike",1000);
 		account[1] = new Account(2345,"Adam",2000);
 		account[2] = new Account(3456,"Lind",3000);
 		account[3] = new Account(4567,"John",4000);
